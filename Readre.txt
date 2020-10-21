@@ -1,0 +1,18 @@
+
+/*******************************************/
+
+Extract the *.Zip files
+
+Step 1 : Run the midserevr Application
+
+Step 2 : Run the Client_1 Application
+
+Step 3 : Run the Client_2 Application
+
+Step 4 : Click the Start Button in MidServer
+
+Step 5 : Click the Connect Button in Client1 and 2
+
+Step 6 : Transfer the Data.
+
+/******************************************/
